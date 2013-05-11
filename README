@@ -1,5 +1,3 @@
-from remote
-
 ####################################################
 ######                                        ######
 ######         GnuPG nautilus scripts         ######
@@ -37,7 +35,5 @@ from remote
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 ############################################################################
 
-<<<<<<< HEAD
-=======
-BRANCH_ONE
->>>>>>> db0264e088c329e7a476343cae313e65e562c2dd
+commit 2013.05.11 10:48 clear from locate
+
